@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @v-maya
-- 👀 I’m interested in working on new coding projects
+- 👀 I’m interested in working on new coding projects.
 - 🌱 I’m currently learning Java and refining my ability with Python.
 
 <!---
